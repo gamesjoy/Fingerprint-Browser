@@ -37,3 +37,5 @@
 感谢您的关注和支持，让我们一起为用户创造一个更加隐私安全的网络浏览环境！
 
 ![指纹浏览器客户端](https://github.com/gihugui/Fingerprint-Browser/raw/main/img/client1.png)
+![指纹浏览器客户端](https://github.com/gihugui/Fingerprint-Browser/raw/main/img/client2.png)
+![指纹浏览器客户端](https://github.com/gihugui/Fingerprint-Browser/raw/main/img/client3.png)
