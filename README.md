@@ -33,10 +33,12 @@
 - 微信：812376073
 - 项目地址：[https://github.com/gihugui/Fingerprint-Browser](https://github.com/gihugui/Fingerprint-Browser)
 - 作者邮箱：812376073@qq.com
+- 设置界面没有展示全部的功能,觉得麻烦。希望有公司或者爬虫工作室能够接入接口。
 
 
 感谢您的关注和支持，让我们一起为用户创造一个更加隐私安全的网络浏览环境！
 
 ![指纹浏览器客户端](https://github.com/gihugui/Fingerprint-Browser/raw/main/img/client1.png)
 ![指纹浏览器客户端](https://github.com/gihugui/Fingerprint-Browser/raw/main/img/clinet2.png)
+![指纹浏览器客户端](https://github.com/gihugui/Fingerprint-Browser/raw/main/img/client4.png)
 ![指纹浏览器客户端](https://github.com/gihugui/Fingerprint-Browser/raw/main/img/client3.png)
