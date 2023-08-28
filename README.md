@@ -19,6 +19,7 @@
 ## 如何使用：
 
 1. windows 环境下载软件包： [Fingerprint-Browser.zip](http://lametodiygifts.com:9395/fxbrowser/data/Fingerprint-Browser.zip)
+注：如被chrome 拦截下载不了，右键"在新窗口中打开链接"负责链接到edge浏览器下载。
 2. 解压并运行 BrowserClient.exe
 3. 开始享受高度隐私保护的浏览体验！
 
